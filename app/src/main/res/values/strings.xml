@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WorkoutTimer</string>
+    <string name="workout_summary">You spent 00:00 on your last workout.</string>
+</resources>
